@@ -65,22 +65,14 @@ The servo motor SG90 was taken from a website called: [GRABCAD](https://grabcad.
     align-items: center;
   "
 >
-  <div style="text-align: center; margin-right: 10px">
-    <img
-      src="https://github.com/Layan002/Mechanical-Task1-Desining-robot-lower-part/assets/107956591/311c0e7b-ee58-4e64-8b20-5037424e59a5"
-      alt="Waist"
-      width="200px"
-    />
-    <p>Waist</p>
-  </div>
 
   <div style="text-align: center; margin-right: 10px">
     <img
-      src="https://github.com/Layan002/Mechanical-Task1-Desining-robot-lower-part/assets/107956591/7625750e-8b59-44d0-b956-b38c26f4d2fc"
-      alt="Hips"
+      src="https://github.com/Layan002/Mechanical-Task1-Desining-robot-lower-part/assets/107956591/76ff13e8-953c-4a7a-b3a6-2f90cce7aa05"
+      alt="Front View"
       width="200px"
     />
-    <p>Hips</p>
+    <p>Front View</p>
   </div>
 
   <div style="text-align: center">
