@@ -45,14 +45,17 @@ I've used SolidWorks Programm to complete this task. SolidWorks is a computer-ai
     />
     <p>Feet</p>
   </div>
-</div>
 
-<img
+<div style="text-align: center">
+  <img
     src="https://github.com/Layan002/Mechanical-Task1-Desining-robot-lower-part/assets/107956591/77f44c6c-ec09-43e6-94e4-f0980ea3c0ff"
     alt="Leg"
     width="200px"
   />
-  <p>Two Joints configuration</p>
+  <p>Two Joints configurations</p>
+</div>
+
+
 
 
 
