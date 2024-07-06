@@ -1,7 +1,7 @@
 I've used SolidWorks Programm to complete this task. SolidWorks is a computer-aided design (CAD) and computer-aided engineering (CAE) software program. It is used to create 3D models, simulations, and drawings of products. 
 
 # Parts
-The servo motor was gotten from a website called: [GRABCAD](https://grabcad.com/library/sg90-micro-servo-9g-tower-pro-1)
+The servo motor SG90 was taken from a website called: [GRABCAD](https://grabcad.com/library/sg90-micro-servo-9g-tower-pro-1)
 <div
   style="
     display: flex;
@@ -109,6 +109,12 @@ The servo motor was gotten from a website called: [GRABCAD](https://grabcad.com/
   />
   <p>Section View</p>
 </div>
+
+# Speed Motion Video
+
+https://github.com/Layan002/Mechanical-Task1-Desining-robot-lower-part/assets/107956591/014a8529-7395-4743-b083-c49f2cacdf1e
+
+
 
 
 
