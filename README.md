@@ -102,6 +102,9 @@ The servo motor SG90 was taken from a website called: [GRABCAD](https://grabcad.
   <p>Section View</p>
 </div>
 
+# Part files and Assembly
+
+
 # Speed Motion Video
 
 https://github.com/Layan002/Mechanical-Task1-Desining-robot-lower-part/assets/107956591/014a8529-7395-4743-b083-c49f2cacdf1e
